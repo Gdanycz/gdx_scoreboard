@@ -1,5 +1,9 @@
 fx_version 'adamant'
-games { 'gta5' }
+game 'gta5'
+
+author 'Gdany#2835'
+description 'More than just a classic scoreboard'
+version '0.9'
 
 client_scripts {
 	'client/main.lua'

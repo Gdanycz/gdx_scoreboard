@@ -1,24 +1,26 @@
 # gdx_scoreboard
- Více než jen klasický scoreboard
+More than just a classic scoreboard
 
-### Funkce:
-- Online hráči, id, ping
-- ID hráče
-- Aktivní frakce
+Created from this script `esx_scoreboard`
+
+### Features:
+- Online players, id, ping
+- Player ID
+- Active factions
 - Uptime
 - Playtime
-- Admini jsou vyznačení červeně (admin)
-- Vedení je vyznačené žlutě (superadmin)
-- Status vykrádání (je ve městě tolik PD na tuhle loupež)
+- Admins are marked in red (admin)
+- Leadership is highlighted in yellow (superadmin)
+- Looting status (there are so many PDs in town for this heist)
 
-### Požadavky:
+### Requirements:
 - es_extended
 - uptime
-- mozek
+- brain
 
-### Instalace:
-- Vložte `gdx_scoreboard` do `resources`
-- Do `server.cfg` vložte `ensure gdx_scoreboard`
-- Nastavte si scoreboard jak potřebujete
-- Pokud by jste si nevěděli rady, můžete mě kontaktovat na discordu: Gdany#2835
+### Install:
+- Paste `gdx_scoreboard` into `resources`
+- Paste `ensure gdx_scoreboard` into `server.cfg`
+- Set up the scoreboard as you need
+- If you don't know what to do, you can contact me on discord: `Gdany#2835`
 
